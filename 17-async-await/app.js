@@ -1,4 +1,5 @@
 const print = (...stuff) => console.log(...stuff);
+const table = (...stuff) => console.table(...stuff);
 
 //  Javascript Nuggets
 // async / await
